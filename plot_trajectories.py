@@ -1,4 +1,4 @@
-# Code from Ian Hawes to draw arbirtarty cyliners
+# Example code to plot trajectories in BrainRender from stereotaxic coordinates 
 import math
 import numpy as np
 
